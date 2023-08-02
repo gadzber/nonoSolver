@@ -1,0 +1,2 @@
+# nonoSolver
+Solver for nonograms
